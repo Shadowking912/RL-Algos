@@ -40,7 +40,7 @@ python q_learning.py
 
 ## References 
 
-Reinforcement Learning: An introduction by Sutton and Barto
+```Reinforcement Learning: An introduction by Sutton and Barto```
 
 
 You can modify the environment, hyperparameters, and policy settings directly within each script.
